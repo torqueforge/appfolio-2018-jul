@@ -12,13 +12,13 @@ You will need:
 Clone this repository:
 
 ```bash
-$ git clone git@github.com:torqueforge/$NAME_OF_CLASS.git
+$ git clone git@github.com:torqueforge/appfolio-2018-jul.git
 ```
 
 Change directories so that you are in the project:
 
 ```bash
-$ cd $NAME_OF_CLASS
+$ cd appfolio-2018-jul
 ```
 
 Install the dependencies:
